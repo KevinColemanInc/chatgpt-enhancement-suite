@@ -6,6 +6,9 @@ With this extension, you can now export your chat history to a CSV file, allowin
 
 Please create an issue or PR if you have features you want to add or request.
 
+# Screenshots
+Export to CSV
+![full](./media/full.png)
 ## Features
   [x] - Export to CSV
   [ ] - Export all to CSV
