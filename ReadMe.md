@@ -9,13 +9,14 @@ Please create an issue or PR if you have features you want to add or request.
 # Screenshots
 Export to CSV
 ![full](./media/full.png)
-## Features
-  [x] - Export to CSV
-  [ ] - Export all to CSV
-  [ ] - Export to PNG
-  [ ] - Prompt Engineering
-  [ ] - Share Chat
 
+## Features
+
+ - [x] Export to CSV
+ - [ ] Export all to CSV
+ - [ ] Export to PNG
+ - [ ] Prompt Engineering
+ - [ ] Share Chat
 
 ## Publishing to the store
 
