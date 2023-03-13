@@ -12,11 +12,11 @@ Export to CSV
 
 ## Features
 
- - [x] Export to CSV
- - [ ] Export all to CSV
- - [ ] Export to PNG
- - [ ] Prompt Engineering
- - [ ] Share Chat
+- [x] Export to CSV
+- [ ] Export all to CSV
+- [ ] Export to PNG
+- [ ] Prompt Engineering
+- [ ] Share Chat
 
 ## Publishing to the store
 
